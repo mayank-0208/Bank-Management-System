@@ -1,11 +1,11 @@
 # 🏦 Bank Management System (Python + Streamlit)
-#📘 Overview
+# 📘 Overview
 This is a Bank Management System Web App built using Python, Streamlit, and Object-Oriented Programming (OOP) concepts.
 It allows users to create and manage bank accounts with features like account creation, deposit, withdrawal, balance check, update, and deletion — all through a clean, interactive web interface.
 
 The project demonstrates how data persistence, OOP design, and frontend integration work together to build a fully functional mini banking system.
 
-##🚀 Features
+## 🚀 Features
 
 ###🧾 1. Create New Account
 
